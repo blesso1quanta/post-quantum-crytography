@@ -5,5 +5,7 @@ decrypt takes the encrypted string as an input and gives the original string as 
 Encryption and decryption process is explained below
 
 [POST-QUANTUM CRYPTOGRAPHY_ (1).pdf](https://github.com/blesso1quanta/post-quantum-crytography/files/9741177/POST-QUANTUM.CRYPTOGRAPHY_.1.pdf)
+
 [PROTOCOL FOR CRYPTOSYSTEM (1).pdf](https://github.com/blesso1quanta/post-quantum-crytography/files/9741178/PROTOCOL.FOR.CRYPTOSYSTEM.1.pdf)
+
 [step by step protocol (1).pdf](https://github.com/blesso1quanta/post-quantum-crytography/files/9741179/step.by.step.protocol.1.pdf)
